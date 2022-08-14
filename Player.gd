@@ -44,4 +44,3 @@ func die():
 	alive = false
 	animation.stop()
 	emit_signal("died")
-	print(" you died")
